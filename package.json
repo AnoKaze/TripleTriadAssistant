@@ -1,0 +1,22 @@
+{
+  "name": "triple_triad_assistant",
+  "version": "1.0.0",
+  "description": "A simple tool to help you collecting cards.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnoKaze/TripleTriadAssistant.git"
+  },
+  "author": "AnoKaze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnoKaze/TripleTriadAssistant/issues"
+  },
+  "homepage": "https://github.com/AnoKaze/TripleTriadAssistant#readme",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+}
